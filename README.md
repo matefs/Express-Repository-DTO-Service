@@ -6,7 +6,7 @@ The "Express-Repository-DTO-Service" project is a Node.js application built usin
 ## Instalation steps: 
 1. Download the project `git clone https://github.com/matefs/Express-Repository-DTO-Service.git`
 2. run `npm install`
-3. run `npm start`
+3. run `npm start` to start the application
 4. Do a curl post request at `http://localhost:3000/users`:
 ```bash
 curl -X POST \
