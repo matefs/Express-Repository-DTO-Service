@@ -3,6 +3,9 @@ The "Express-Repository-DTO-Service" project is a Node.js application built usin
 
 ![image](https://github.com/matefs/Express-Repository-DTO-Service/assets/30128774/5c4de31d-092a-4267-b476-879c41d4440a)
 
+### Repository DTO Service Pattern diagram 
+![image](https://github.com/matefs/Express-Repository-DTO-Service/assets/30128774/d8669952-0378-4dcb-ab2b-a794941663ec)
+
 ## Instalation steps: 
 1. Download the project `git clone https://github.com/matefs/Express-Repository-DTO-Service.git`
 2. run `npm install`
@@ -15,3 +18,6 @@ curl -X POST \
   http://localhost:3000/users
 ```
 5. Using your browser, acess `http://localhost:3000/users` to see registered users.
+
+
+## 
